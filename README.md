@@ -1,6 +1,10 @@
-# <p align="center">What is ICPC?</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/ICPC%20banner.png" alt="ICPC" height="40">
+</p>
+
+<h1 align="center">What is ICPC?</h1>
 <p align="center">ICPC i.e., International Collegiate Programming Contest!</p>
-<Br>
+
 
 > Note: If you are familiar with competitive programming, you may have heard of 'ICPC', i.e., the International Collegiate Programming Contest, often referred to as the olympiad of competitive programming. If not, this blog will help you understand what ICPC actually is.
 <Br>
