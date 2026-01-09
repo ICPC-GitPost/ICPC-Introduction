@@ -21,7 +21,7 @@ The top team takes home 15,000 USD along with the ICPC Gold medal. Three other t
 
 > Eligibility?
 
-* Team: You can make upto 
+* Team: You can make upto maximum of
 
 
 
